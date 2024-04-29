@@ -1,0 +1,2 @@
+
+Software refers to the programs, data, and instructions that tell a computer how to perform specific tasks. It encompasses all types of digitally stored data, including computer programs, libraries, scripts, and related non-executable data, such as digital media, documentation, and online resources
